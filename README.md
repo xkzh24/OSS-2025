@@ -2,7 +2,12 @@
 Good lecture
 Welcome
 
-data "science" lab
+data *science* lab
 
 😂
-#abcedfg
+
+$E=mc^2$
+
+# 목록작성
+1. 동아대학교
+2. 망해라
